@@ -25,3 +25,17 @@
  การใช้งาน Google Colab นั้นแสนง่ายเพราะมีเพียง Code cell และ Text cell
                    Code cell -> ใช้ในการเขียนโค้ด Python พอเขียนเสร็จ สามารถกดปุ่ม shortcut ในคีย์บอร์ด SHIFT + Enter เพื่อรันโค้ดใน Cell นั้นๆ
                    Text cell -> ใช้ text cell เพื่อจดโน้ตต่างๆ หรือใช้เขียนอธิบายโค้ดของเราให้คนอื่นที่มาอ่านโค้ดจะได้เข้าใจง่ายๆ กด SHIFT + ENTER รันโค้ดใน cell ถัดไป
+
+
+วิธีเซฟไฟล์จาก Google Colab ลงใน Github
+   1. ไปที่ File จากนั้นเลือก Save a copy in Github
+![kku_logo](1.png)
+
+   2. ค้นหา Project ที่ต้องการบันทึกที่ช่อง Repository
+![kku_logo](2.png)
+   
+   3. สามารถใส่ข้อความได้ในช่อง Commit message
+![kku_logo](3.png)
+
+   4. กด OK เพื่อบันทึก
+![kku_logo](4.png)
